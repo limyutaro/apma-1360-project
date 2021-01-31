@@ -1,6 +1,6 @@
 # apma-1360-project
 
-![Sandpile Avalanche](https://drive.google.com/file/d/1PnyIcbkhZcejMzWQg2ltOT-liygeqiMQ/view?usp=sharing)
+![Sandpile Avalanche](sandpile\ avalanche.png)
 
 Final project on pattern formation in sandpile models. 
 For the course Applied Dynamical Systems (APMA 1360), Brown University, Spring 2020. 
