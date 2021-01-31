@@ -1,6 +1,6 @@
 # apma-1360-project
 
-![Sandpile Avalanche](https://github.com/limyutaro/apma-1360-project/sandpile-avalanche.png =250x250)
+<img src="sandpile-avalanche.png" width="300" height="300">
 
 Final project on pattern formation in sandpile models. 
 For the course Applied Dynamical Systems (APMA 1360), Brown University, Spring 2020. 
